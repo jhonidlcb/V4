@@ -1,0 +1,1 @@
+-- Revisando estructura actual de la base de datos
